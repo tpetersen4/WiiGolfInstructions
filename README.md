@@ -39,7 +39,7 @@
 <li class="has-line-data" data-line-start="34" data-line-end="35">Since this is your first shot, the driver, Hybrid, or low number Iron will most likely work best.</li>
 <li class="has-line-data" data-line-start="35" data-line-end="37">When is a club is selected, you can see how far that club can reach on your minimap in the top left corner. Feel switch between clubs until you find the one best suited for the shot.</li>
 <div> 
- <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:40%; max-height:50%;">
+ <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:35%; max-height:50%;">
     </div>
     </ul>
 <h2 class="code-line" data-line-start=37 data-line-end=38><a id="Step_6_Power_and_Direction_37"></a>Step 6: Power and Direction:</h2>
@@ -49,7 +49,7 @@
 <li class="has-line-data" data-line-start="40" data-line-end="42"> <b>Note:</b> Going over the bar on power will result in an errant hit. This will cause the ball to veer off of the intended course.</li>
 </ul>
     <div> 
- <img src="Power.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:50%; max-height:50%;">
+ <img src="Power.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:60%; max-height:60%;">
     </div>
 <h2 class="code-line" data-line-start=42 data-line-end=43><a id="Step_7_Swing_Time_42"></a>Step 7: Swing Time:</h2>
 <ul>
@@ -67,7 +67,7 @@
 <li class="has-line-data" data-line-start="52" data-line-end="53">Be careful not to use too much power or the ball may hit the hole and fly out.</li>
 <li class="has-line-data" data-line-start="53" data-line-end="55"><b>Helpful Hint</b> If your are very close to the hole any power but the lowest will strike the ball too hard. Gently flick your wrist to achieve a swing with the minimum power.</li>
 <div> 
- <img src="Putt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:50%; max-height:50%;">
+ <img src="Putt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:60%; max-height:60%;">
     </div>
     </ul>
 <h2 class="code-line" data-line-start=55 data-line-end=56><a id="Step_10_Improvise_Adapt_Overcome_55"></a>Step 10: Improvise, Adapt, Overcome:</h2>
@@ -77,7 +77,7 @@
 <li class="has-line-data" data-line-start="58" data-line-end="59">Search for little easter eggs on maps that could allow you to reach the hole in less strokes.</li>
 <li class="has-line-data" data-line-start="59" data-line-end="60">Continue playing until your mom tells you that dinner is ready.</li>
 <div> 
- <img src="Matt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:15%; max-height:25%;">
+ <img src="Matt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:10%; max-height:10%;">
     </div>
     </ul>
 </body></html>
