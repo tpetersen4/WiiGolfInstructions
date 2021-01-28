@@ -37,7 +37,7 @@
 <h2 class="code-line" data-line-start=33 data-line-end=34><a id="Step_5_Pick_a_Club_33"></a>Step 5: Pick a Club:</h2>
 <ul>
 <li class="has-line-data" data-line-start="34" data-line-end="35">Since this is your first shot, the driver, Hybrid, or low number Iron will most likely work best.</li>
-<li class="has-line-data" data-line-start="35" data-line-end="37">When is a club is selected, you can see how far that club can reach on your minimap in the top left corner. Feel switch between clubs until you find the one best suited for the shot.</li>
+<li class="has-line-data" data-line-start="35" data-line-end="37">When is a club is selected, you can see how far that club can reach on your minimap in the top left corner. Feel free to switch between clubs until you find the one best suited for the shot.</li>
 <div> 
  <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="600" height="300" alt="Computer Hope">
     </div>
