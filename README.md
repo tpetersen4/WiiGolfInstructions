@@ -39,7 +39,7 @@
 <li class="has-line-data" data-line-start="34" data-line-end="35">Since this is your first shot, the driver, Hybrid, or low number Iron will most likely work best.</li>
 <li class="has-line-data" data-line-start="35" data-line-end="37">When is a club is selected, you can see how far that club can reach on your minimap in the top left corner. Feel switch between clubs until you find the one best suited for the shot.</li>
 <div> 
- <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:35%; max-height:50%;">
+ <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="400" height="100" alt="Computer Hope">
     </div>
     </ul>
 <h2 class="code-line" data-line-start=37 data-line-end=38><a id="Step_6_Power_and_Direction_37"></a>Step 6: Power and Direction:</h2>
