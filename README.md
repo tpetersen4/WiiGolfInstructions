@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>README.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8">README.md</head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Wii_Golf_Instructions_0"></a>Wii Golf Instructions</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Are you interested in golf but all other lessons have failed you? Golf can be difficult, laborious and more trouble than it’s worth. The perfect alternative is Wii Golf, which offers all of golfs greatest joys in the comfort of your own home!</p>
 <h1 class="code-line" data-line-start=4 data-line-end=5><a id="Objective_4"></a>Objective</h1>
