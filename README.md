@@ -49,7 +49,7 @@
 <li class="has-line-data" data-line-start="40" data-line-end="42"> <b>Note:</b> Going over the bar on power will result in an errant hit. This will cause the ball to veer off of the intended course.</li>
 </ul>
     <div> 
- <img src="Power.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:60%; max-height:60%;">
+ <img src="Power.1.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="600" height="300" alt="Computer Hope">
     </div>
 <h2 class="code-line" data-line-start=42 data-line-end=43><a id="Step_7_Swing_Time_42"></a>Step 7: Swing Time:</h2>
 <ul>
