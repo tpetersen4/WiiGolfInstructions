@@ -39,7 +39,7 @@
 <li class="has-line-data" data-line-start="34" data-line-end="35">Since this is your first shot, the driver, Hybrid, or low number Iron will most likely work best.</li>
 <li class="has-line-data" data-line-start="35" data-line-end="37">When is a club is selected, you can see how far that club can reach on your minimap in the top left corner. Feel switch between clubs until you find the one best suited for the shot.</li>
 <div> 
- <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="400" height="100" alt="Computer Hope">
+ <img src="drive.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="600" height="300" alt="Computer Hope">
     </div>
     </ul>
 <h2 class="code-line" data-line-start=37 data-line-end=38><a id="Step_6_Power_and_Direction_37"></a>Step 6: Power and Direction:</h2>
@@ -77,7 +77,7 @@
 <li class="has-line-data" data-line-start="58" data-line-end="59">Search for little easter eggs on maps that could allow you to reach the hole in less strokes.</li>
 <li class="has-line-data" data-line-start="59" data-line-end="60">Continue playing until your mom tells you that dinner is ready.</li>
 <div> 
- <img src="Matt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  style="max-width:10%; max-height:10%;">
+ <img src="Matt.jpg" alt="Me and the family at a Hockey Game" class="center-image"  width="400" height="600" alt="Computer Hope">
     </div>
     </ul>
 </body></html>
